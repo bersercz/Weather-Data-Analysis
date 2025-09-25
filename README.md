@@ -5,7 +5,14 @@
 
 ## Analyzing Data
 ```python
+### To get index and columns
 data.shape
+
+### To Get index value
 data.index
+
+### For columns Name
 data.columns
+
+### To get the data type of all indexes
 data.dtypes```
